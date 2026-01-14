@@ -1,0 +1,31 @@
+{
+  "fields": {
+    "dealer_name": {
+      "value": "Foobar Labs",
+      "confidence": 0.98
+    },
+    "model_name": {
+      "value": null,
+      "confidence": null
+    },
+    "horse_power": {
+      "value": null,
+      "confidence": null
+    },
+    "asset_cost": {
+      "value": 19000,
+      "confidence": 0.99
+    },
+    "dealer_signature": {
+      "present": true,
+      "confidence": 0.97
+    },
+    "dealer_stamp": {
+      "present": false,
+      "confidence": 0.95
+    }
+  },
+  "overall_confidence": 0.95,
+  "doc_id": "loan_quotation_001",
+  "page_no": 1
+}

@@ -29,23 +29,23 @@ env/
 Thumbs.db
 
 # Temporary files
-temp_*.png
-temp_*.jpg
-temp_*.jpeg
-temp_*.webp
+# temp_*.png
+# temp_*.jpg
+# temp_*.jpeg
+# temp_*.webp
 
 # Output files (optional - comment out if you want to track these)
-*_results.json
-*_coordinates.json
-signature_detections/
-signature_with_bb.png
-annotated_*.png
+# *_results.json
+# *_coordinates.json
+# signature_detections/
+# signature_with_bb.png
+# annotated_*.png
 
 # Model weights (large files)
-*.pt
-*.pth
-*.onnx
-*.h5
+# *.pt
+# *.pth
+# *.onnx
+# *.h5
 
 # Logs
 *.log
