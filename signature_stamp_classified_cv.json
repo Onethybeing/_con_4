@@ -1,0 +1,60 @@
+{
+  "summary": {
+    "total_detections": 3,
+    "signatures": 0,
+    "stamps": 3
+  },
+  "detections": [
+    {
+      "detection_id": 0,
+      "type": "stamp",
+      "feature_scores": {
+        "signature": 2,
+        "stamp": 6
+      },
+      "bbox": {
+        "x1": 819.56,
+        "y1": 942.72,
+        "x2": 977.43,
+        "y2": 1065.8,
+        "width": 157.86,
+        "height": 123.08
+      },
+      "yolo_confidence": 0.7942
+    },
+    {
+      "detection_id": 1,
+      "type": "stamp",
+      "feature_scores": {
+        "signature": 0,
+        "stamp": 9
+      },
+      "bbox": {
+        "x1": 840.26,
+        "y1": 1043.79,
+        "x2": 1024.0,
+        "y2": 1238.55,
+        "width": 183.74,
+        "height": 194.76
+      },
+      "yolo_confidence": 0.6455
+    },
+    {
+      "detection_id": 2,
+      "type": "stamp",
+      "feature_scores": {
+        "signature": 1,
+        "stamp": 7
+      },
+      "bbox": {
+        "x1": 829.08,
+        "y1": 967.36,
+        "x2": 1024.0,
+        "y2": 1235.92,
+        "width": 194.92,
+        "height": 268.56
+      },
+      "yolo_confidence": 0.2252
+    }
+  ]
+}
