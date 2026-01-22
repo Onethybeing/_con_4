@@ -1,0 +1,33 @@
+{
+  "doc_id": "90ae06be-dcab-44a3-a0f8-11dbe499d34f",
+  "fields": {
+    "dealer_name": "बनकर पाटील ट्रैक्टर्स",
+    "model_name": "POWERTRAC TRACTOR PT43GS",
+    "horse_power": 43,
+    "asset_cost": 635000,
+    "signature": {
+      "present": true,
+      "bbox": [26, 1496, 234, 1524],
+      "confidence": 0.6
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [756, 247, 1008, 524],
+      "confidence": 0.85
+    }
+  },
+  "confidence": 0.82,
+  "processing_time_sec": 45.2,
+  "script_detected": "hindi",
+  "ocr_language": "hi",
+  "raw_ocr_text": "भारतीय स्टेट बैंक\nCOTATION FOR TRACTOR LOAN\n...",
+  "metadata": {
+    "image_size": [1080, 1920],
+    "preprocessing_applied": ["CLAHE", "deskew", "denoise"],
+    "model_versions": {
+      "paddleocr": "2.9.1",
+      "sarvam": "sarvam-1-q8_0.gguf",
+      "stamp2vec": "yolo-stamp-v1"
+    }
+  }
+}
